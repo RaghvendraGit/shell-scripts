@@ -4,4 +4,6 @@ echo "Hi this is to test git repo"
 
 echo "adding this to trigger Jenkins event"
 
+echo "Triggering one more event"
+
 hello
