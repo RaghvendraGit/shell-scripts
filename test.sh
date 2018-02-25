@@ -6,4 +6,6 @@ echo "adding this to trigger Jenkins event"
 
 echo "Triggering one more event"
 
+echo "Testing docker run"
+
 hello
