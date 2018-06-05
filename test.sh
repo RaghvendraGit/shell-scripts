@@ -8,5 +8,5 @@ echo "Triggering one more event"
 
 echo "Testing docker run"
 
-echo "Triggering Jenkins event"
+echo "Testing Git Hub Webhooks in Jenkins"
 
