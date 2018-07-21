@@ -10,5 +10,3 @@ echo "Testing docker run"
 
 echo "Testing Git Hub Webhooks in Jenkins"
 
-echo "Testing on 7th July"
-
